@@ -1,0 +1,11 @@
+{
+  "title": "Medical Multi-Agent System",
+  "description": "Système multi-agents pour orientation clinique préliminaire",
+  "graphs": {
+    "medical_workflow": {
+      "entrypoint": "app.graph",
+      "compiled_graph_name": "medical_graph"
+    }
+  },
+  "env": ".env"
+}

@@ -1,0 +1,44 @@
+{
+  "interactions": [
+    {
+      "drugs": ["Aspirine", "Ibuprofène"],
+      "severity": "Modérée",
+      "description": "Risque accru de saignement gastro-intestinal. Éviter la prise simultanée."
+    },
+    {
+      "drugs": ["Paracétamol", "Alcool"],
+      "severity": "Élevée",
+      "description": "Risque d'hépatotoxicité grave. Ne pas consommer d'alcool avec du paracétamol."
+    },
+    {
+      "drugs": ["Warfarine", "Aspirine"],
+      "severity": "Élevée",
+      "description": "Risque hémorragique majeur. Surveillance INR renforcée nécessaire."
+    },
+    {
+      "drugs": ["Metformine", "Alcool"],
+      "severity": "Élevée",
+      "description": "Risque d'acidose lactique. Éviter la consommation d'alcool."
+    },
+    {
+      "drugs": ["Oméprazole", "Clopidogrel"],
+      "severity": "Modérée",
+      "description": "Réduction de l'efficacité du clopidogrel. Préférer le pantoprazole."
+    },
+    {
+      "drugs": ["Amoxicilline", "Méthotrexate"],
+      "severity": "Élevée",
+      "description": "Augmentation de la toxicité du méthotrexate. Surveillance rapprochée."
+    },
+    {
+      "drugs": ["Lisinopril", "Potassium"],
+      "severity": "Modérée",
+      "description": "Risque d'hyperkaliémie. Surveiller le taux de potassium sanguin."
+    },
+    {
+      "drugs": ["Simvastatine", "Amiodarone"],
+      "severity": "Élevée",
+      "description": "Risque de rhabdomyolyse. Limiter la dose de simvastatine à 20mg."
+    }
+  ]
+}
