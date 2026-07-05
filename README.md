@@ -89,6 +89,3 @@ Patient saisit le cas → Supervisor → DiagnosticAgent (5 questions)
 → Supervisor → ReportAgent → Rapport final
 ```
 
-## Avertissement
-
-⚠️ Ce système est un exercice académique. Il ne remplace pas une consultation médicale.
